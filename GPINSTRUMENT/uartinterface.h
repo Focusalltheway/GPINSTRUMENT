@@ -1,0 +1,4 @@
+#ifndef UARTINTERFACE_H
+#define UARTINTERFACE_H
+
+#endif // UARTINTERFACE_H
